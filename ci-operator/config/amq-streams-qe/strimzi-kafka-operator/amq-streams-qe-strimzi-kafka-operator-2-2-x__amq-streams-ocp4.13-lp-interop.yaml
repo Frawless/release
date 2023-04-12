@@ -35,7 +35,7 @@ tests:
     - ref: strimzi-run-tests
     workflow: ipi-aws
 zz_generated_metadata:
-  branch: release-0.29.x
+  branch: 2-2-x
   org: amq-streams-qe
   repo: strimzi-kafka-operator
   variant: amq-streams-ocp4.13-lp-interop
